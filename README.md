@@ -77,9 +77,3 @@ Our platform is currently undergoing active internal testing and may be made ava
 ### English QA Interface
 
 ![en-demo](EN.png)
-
-
----
-## 📬 Contact
-
-Email: cp50321@163.com
