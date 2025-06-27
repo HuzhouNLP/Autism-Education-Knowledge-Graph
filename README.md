@@ -1,4 +1,4 @@
-# 🧠 Autism Education Knowledge Graph & QA System
+# 🧠 Autism Education Knowledge Graph
 
 This repository contains the materials for the paper:  
 **"Knowledge Graph Construction and Retrieve-Augmented QA for Autism Education"**
